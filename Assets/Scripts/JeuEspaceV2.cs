@@ -15,6 +15,8 @@ public class JeuEspaceV2 : MonoBehaviour
     
     public GameObject fxExplosion;
 
+    public AudioSource 
+
     // Variable pour garder une référence à la copie global
     public static JeuEspaceV2 instance;
 
